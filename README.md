@@ -1,7 +1,7 @@
 # 🔥 Hiya! I'm Kelvin.
 
 **'Student'**
-I'm a highschool student who wants to persue their passion within the worlds of coding! In this profile, you'll the projects I'm currently working on (although most are simple right now, lol). Anyways, if you can, visit one of my projects and check it out! You can read through it and send me any comments/feedback you may have via my attached email <a href="mailto:kelvinomg1211@gmail.com>kelvinomg1211@gmail.com</a>. Any feedback is appreciated!
+I'm a highschool student who wants to persue their passion within the worlds of coding! In this profile, you'll the projects I'm currently working on (although most are simple right now, lol). Anyways, if you can, visit one of my projects and check it out! You can read through it and send me any comments/feedback you may have via my attached email kelvinomg1211@gmail.com. All feedback is appreciated!
 
 ---
 ## Languages 
