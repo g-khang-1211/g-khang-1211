@@ -15,7 +15,7 @@
 ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-> I love trying new stuff, build projects, and learn new things!
+> A passionate, curious student who is always ready to learn & build new things!
 
 ## Current Projects
 
@@ -29,7 +29,7 @@
 - Building projects (mainly web-based)
 - Utilising tools such as Codex and Google AI Studio to learn and ship faster
 
-## Contact
+## Contact me
 
 - GitHub: [@g-khang-1211](https://github.com/g-khang-1211)
 - Email: kelvinomg1211@gmail.com
