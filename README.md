@@ -21,7 +21,7 @@
 
 - 🎨 **CodeCanvas AI** — An AI-powered study platform to allow you whatever you want faster by generating tailored lessons, flashcards, quizzes, and study materials on demand. [Repo](https://github.com/g-khang-1211/CodeCanvas-AI-main) // [Demo](https://codecanvas-ai.onrender.com)
 
-- 🛡️ **ScamShield** [BUILT AT LotusHack x Hackharvard 2026 Hackathon](https://devpost.com/software/scamshield-xvpszy)— A chrome-extension utilising heuristics, Gemini & OpenRouter API for detailed website safety analysis. [Repo](https://github.com/Henrycoding-design/Scam-detection-LotusHack2026)
+- 🛡️ **ScamShield** [Built at LotusHack x Hackharvard 2026 Hackathon](https://devpost.com/software/scamshield-xvpszy)— A chrome-extension utilising heuristics, Gemini & OpenRouter API for detailed website safety analysis. [Repo](https://github.com/Henrycoding-design/Scam-detection-LotusHack2026)
 
 ## About Me
 
