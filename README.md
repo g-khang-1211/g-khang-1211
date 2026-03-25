@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  Built with curiosity & passion. Shipped with intent and drive for impact.
+  Curisoty &#xb7; Passion &#xb7; Intent
 </p>
