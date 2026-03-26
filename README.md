@@ -36,11 +36,6 @@
 - Building projects, mainly on the web
 - Using tools such as Codex and Google AI Studio to learn and ship faster
 
-## Contact Me
-
-- GitHub: [@g-khang-1211](https://github.com/g-khang-1211)
-- Email: kelvinomg1211@gmail.com
-
 ---
 
 ## GitHub Stats
