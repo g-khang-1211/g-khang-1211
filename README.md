@@ -41,8 +41,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-khang-1211&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-khang-1211&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top languages" />
+  <img src="https://henrycoding-design-github-stats.vercel.app/api?username=g-khang-1211&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <img src="https://henrycoding-design-github-stats.vercel.app/api/top-langs/?username=g-khang-1211&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" height="180" alt="Top languages" />
 </p>
 
 <p align="center">
